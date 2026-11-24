@@ -1,0 +1,16 @@
+{
+  "name": "Sintonia",
+  "short_name": "Sintonia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#512484",
+  "theme_color": "#512484",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

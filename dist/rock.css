@@ -1,0 +1,17 @@
+.rock-back { color: inherit; text-decoration: none; }
+.rock-product { margin-top: 34px; }
+.rock-product .cover {
+  width: 76%;
+  height: 280px;
+  margin-inline: auto;
+  background: linear-gradient(150deg, #51248488, #9b327444),
+    url('assets/verso.png') center / cover;
+}
+.rock-product .cover strong { margin-block: auto; }
+.rock-product .cover strong { font-size: clamp(60px, 19vw, 90px); }
+.rock-product .cover strong span { font-size: 68px; }
+.rock-product h1 { font-size: clamp(38px, 11vw, 49px); }
+.rock-product .rock-price { font: 30px Georgia, serif; margin: 24px 0 14px; }
+.rock-buy:disabled { opacity: .65; cursor: default; }
+
+.rock-product .cover .edition-art{height:210px}
